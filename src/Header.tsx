@@ -81,17 +81,6 @@ const Header = () => {
           <Heading textAlign="center" as="h1">
             NFT Explorer
           </Heading>
-          <Box pt={5} pb={5} pl={5} pr={5}>
-            Enter an<b> Ethereum ERC721</b> Contract Address with the
-            <b>
-              {" "}
-              <Link href="https://eips.ethereum.org/EIPS/eip-721">
-                ERC721Enumerable
-              </Link>
-            </b>{" "}
-            Extension, or select one of the available Collection presets. Data
-            will be dynamically fetched as you scroll.
-          </Box>
           <Flex
             justify="space-around"
             align="center"
