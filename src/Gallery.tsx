@@ -279,8 +279,6 @@ const Gallery = ({ listRef }) => {
       try {
         if (uri.startsWith("ipfs:")) {
           uri = ipfsGatewayUrl(uri, ipfsGateway);
-        } else if (corsProxyUrl) {
-          uri = corsProxyUrl + uri;
         }
 
         const response = await fetch(uri, { signal });
