@@ -473,7 +473,7 @@ const Gallery = ({ listRef }) => {
                 )}
               </Box>
             </Link>
-          );
+          ); console.log('asdasd');
         })}
       </Flex>
     );
