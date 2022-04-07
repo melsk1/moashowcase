@@ -303,7 +303,7 @@ const Gallery = ({ listRef }) => {
           ...delayedImagesMap.current,
           [tokenId]: { promise, controller }
         };
-
+        console.log(activeContractAddress, tokenId);
         return data;
       } catch (error) {
         console.log(error);
