@@ -79,7 +79,7 @@ const Header = () => {
       >
         <Flex direction="column">
           <Heading textAlign="center" as="h1">
-            Show Case Nft explorer
+            Oz Yoo NFT Explorer Show Case
           </Heading>
           <Flex
             justify="space-around"
