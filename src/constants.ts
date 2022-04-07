@@ -1,8 +1,8 @@
 const {
   REACT_APP_ALCHEMY_API = 'BDVa7LAfJZLftNoctYU0CJP1IaK8OQKt',
-  REACT_APP_CHAIN_ID,
+  REACT_APP_CHAIN_ID = '1',
   REACT_APP_ETHERSCAN_URL,
-  REACT_APP_SITE_URL,
+  REACT_APP_SITE_URL = 'https://moashowcase.vercel.app/',
   REACT_APP_PROXY_URL
 } = process.env;
 
