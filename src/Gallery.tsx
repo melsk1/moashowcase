@@ -417,7 +417,6 @@ const Gallery = ({ listRef }) => {
           const tokenId = parseInt(
             Object.keys(dataByContract[activeContractAddress])[start + index]
           );
-          console.log(tokenId);
           return (
             <Link
               key={`${tokenId}-${index}`}
