@@ -1,5 +1,9 @@
 const presets: any[] = [
   {
+    name: "Ape na oazise",
+    address: "0x99f43f11CC6b5C378eBc2Cb4eEd7CC4F5F0006C0"
+  },
+  {
     name: "Pudgy Penguins",
     address: "0xBd3531dA5CF5857e7CfAA92426877b022e612cf8"
   },
