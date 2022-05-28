@@ -1,9 +1,5 @@
 const presets: any[] = [
   {
-    name: "Ape na oazise",
-    address: "0x99f43f11CC6b5C378eBc2Cb4eEd7CC4F5F0006C0"
-  },
-  {
     name: "Pudgy Penguins",
     address: "0xBd3531dA5CF5857e7CfAA92426877b022e612cf8"
   },
@@ -35,6 +31,11 @@ const presets: any[] = [
   {
     name: "Stoner Cats",
     address: "0xD4d871419714B778eBec2E22C7c53572b573706e",
+    options: { cors: true }
+  },
+    {
+    name: "Ape na oazise",
+    address: "0x99f43f11CC6b5C378eBc2Cb4eEd7CC4F5F0006C0",	
     options: { cors: true }
   },
   {
