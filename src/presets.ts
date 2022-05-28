@@ -33,11 +33,6 @@ const presets: any[] = [
     address: "0xD4d871419714B778eBec2E22C7c53572b573706e",
     options: { cors: true }
   },
-    {
-    name: "Ape na oazise",
-    address: "0x99f43f11CC6b5C378eBc2Cb4eEd7CC4F5F0006C0",	
-    options: { cors: true }
-  },
   {
     name: "Desperate ApeWives",
     address: "0xF1268733C6FB05EF6bE9cF23d24436Dcd6E0B35E",
