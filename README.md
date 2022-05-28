@@ -1,5 +1,10 @@
+<<<<<<< Updated upstream
 
 ## Features:
+=======
+### NFT Explorer
+
+>>>>>>> Stashed changes
 
 - Browse big collections (9,999+ of items) on a single page.
 - Navigation on the right side makes easier to find the position within the table and the remaining items on the list.
