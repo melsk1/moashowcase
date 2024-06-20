@@ -1,6 +1,6 @@
 {
-  "name": "nft-exlplorer",
-  "homepage": "https://nft-explorer.vaan.dev/",
+  "name": "nft-exlplorer test",
+  "homepage": "https://moashowcase.vercel.app/",
   "version": "1.0",
   "private": false,
   "dependencies": {
